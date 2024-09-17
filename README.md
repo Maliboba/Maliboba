@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maliboba
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning nutrition
+- 🌱 I’m currently learning R programming 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me claudiaagyeere@gmail.com
 
